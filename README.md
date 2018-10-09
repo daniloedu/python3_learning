@@ -1,2 +1,2 @@
 # python3_learning
-basics of python code
+Reference solutions for Python exercises made in Hacker Rank Website.
